@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. This is an edit to
-          the app tee hee hee.
+          the app tee hee hee. This is a second edit to check the OG repo is
+          working.
         </p>
         <a
           className="App-link"
