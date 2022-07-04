@@ -1,5 +1,6 @@
-import logo from "./logo.svg";
+import logo from "../../logo.svg";
 import "./App.css";
+import Form from "../Form/Form.js";
 
 function App() {
   return (
@@ -11,14 +12,7 @@ function App() {
           the app tee hee hee. This is a second edit to check the OG repo is
           working.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Form />
       </header>
     </div>
   );
