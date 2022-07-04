@@ -7,11 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload. This is an edit to
-          the app tee hee hee. This is a second edit to check the OG repo is
-          working.
-        </p>
+        <p>This is our app we are adding a form huehuehue</p>
         <Form />
       </header>
     </div>
